@@ -1,0 +1,22 @@
+.headding{
+    background-color: cadetblue; 
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    
+}
+.ul{
+    
+    text-align: center;
+}
+.img{
+    background-color:darkgoldenrod;
+    display:block   
+}
+.pic{
+    border: 7px solid crimson;
+    border-radius: 20px ;
+    display: block;
+    margin: auto;
+
+}
